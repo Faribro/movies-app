@@ -1,2 +1,2 @@
 # movies-app
-Created with CodeSandbox
+ A Simple Movie Search Application Created Using React and OMDB API.
